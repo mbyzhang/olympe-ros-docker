@@ -1,0 +1,5 @@
+ro.build.date=Tue Mar  9 02:47:11 CST 2021
+ro.build.date.utc=1615229231
+ro.build.alchemy.product=olympe
+ro.build.alchemy.variant=linux
+ro.build.hostname=peter-ros-noetic
